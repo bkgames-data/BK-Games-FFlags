@@ -1,0 +1,11 @@
+{
+    "Mailbox" : false,
+    "Bank" : true,
+    "Daycare" : true,
+    "Double Coins" : false,
+    "Triple Coins" : false,
+    "Double Diamonds" : false,
+    "Triple Diamonds" : false,
+    "Double Lucky" : false,
+    "Triple Lucky" : false
+}
