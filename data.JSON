@@ -7,5 +7,6 @@
     "Double Diamonds" : false,
     "Triple Diamonds" : false,
     "Double Lucky" : false,
-    "Triple Lucky" : false
+    "Triple Lucky" : false,
+    "Trading" : true
 }
